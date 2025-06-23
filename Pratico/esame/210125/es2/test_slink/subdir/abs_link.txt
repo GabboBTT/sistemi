@@ -1,0 +1,1 @@
+/home/gabbo/Sistemi/Pratico/esame/210125/es2/test_slink/file.txt
